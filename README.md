@@ -40,3 +40,13 @@
 
 ## 🖼️ 游戏海报与截图
 <img src="file/promotional-poster.jpg" width="300" alt="愚公新传：移山志 宣传海报">
+
+## 📂 项目文档
+📝 **开发计划与任务**  
+[Teamwork-document.xlsx](file/Teamwork-document.xlsx)
+
+🎮 **游戏设计文档**  
+[Game-design-document.docx](file/Game-design-document.docx)
+
+📊 **项目总结报告**  
+[Game-project-summary-document.docx](file/Game-project-summary-document.docx)
