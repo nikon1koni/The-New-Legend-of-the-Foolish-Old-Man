@@ -39,4 +39,4 @@
 ---
 
 ## 🖼️ 游戏海报与截图
-![愚公新传：移山志 宣传海报](image/game-poster.jpg)
+![愚公新传：移山志 宣传海报](image/promotional%20poster.jpg)
