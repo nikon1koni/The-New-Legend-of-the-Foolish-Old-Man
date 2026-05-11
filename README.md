@@ -39,4 +39,4 @@
 ---
 
 ## 🖼️ 游戏海报与截图
-<img src="promotional-poster.jpg" width="600" alt="愚公新传：移山志 宣传海报">
+<img src="promotional-poster.jpg" width="300" alt="愚公新传：移山志 宣传海报">
