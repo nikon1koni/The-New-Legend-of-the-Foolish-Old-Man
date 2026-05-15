@@ -79,7 +79,7 @@
 
 1. 前往右侧 [Releases](https://github.com/nikon1koni/The-New-Legend-of-the-Foolish-Old-Man/releases) 下载最新版压缩包
 2. 解压到**纯英文路径**（不要有中文、空格、特殊符号）
-3. 打开解压文件夹，双击 `愚公新传：移山志.exe` 运行游戏
+3. 打开解压文件夹，双击 `YuGongNewStory.exe` 运行游戏
 
 ### ⚠️ 重要注意
 - 仅支持 **Windows 64 位系统**
